@@ -1,0 +1,10 @@
+.gameBox {
+    background: 50% 50%;
+    /* height: 300px;
+    width: 300px; */
+    background-color: rgb(133, 244, 244);
+    border: 15px solid rgb(80, 92, 102);
+}
+div {
+    font-size: x-large;
+}
